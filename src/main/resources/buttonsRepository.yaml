@@ -1,0 +1,48 @@
+---
+allButtons:
+  START:
+    -
+      - text: "Часто задаваемые вопросы:"
+        callbackData: frequent_questions
+
+    - - text: "Частые проблемы:"
+        callbackData: frequent_problems
+
+  FREQUENT_QUESTIONS:
+    -
+      - text: "Вопрос 1"
+        callbackData: solve_question1
+
+    -
+      - text: "Вопрос 2"
+        callbackData: solve_question2
+
+    -
+      - text: "Вопрос 3"
+        callbackData: solve_question3
+
+  SOLVE_QUESTION3:
+    -
+      - text: "да"
+        callbackData: solve_question3_yes
+
+    -
+      - text: "нет"
+        callbackData: solve_question3_no
+
+  FREQUENT_PROBLEMS:
+    - - text: "Проблема 1"
+        callbackData: solve_problem1
+
+    - - text: "Проблема 2"
+        callbackData: solve_problem2
+
+    - - text: "Проблема 3"
+        callbackData: solve_problem3
+
+  SOLVE_PROBLEM3:
+    - - text: "да"
+        callbackData: solve_problem3_yes
+
+    - - text: "нет"
+        callbackData: solve_problem3_no

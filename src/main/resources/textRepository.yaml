@@ -1,0 +1,27 @@
+---
+START: "Здравствуйте!
+        \nВыберите один из вариантов:"
+
+FREQUENT_QUESTIONS: "Выбите вопрос, необходимый вам:"
+
+SOLVE_QUESTION1: "Типо ответ"
+
+SOLVE_QUESTION2: "Тоже ответ"
+
+SOLVE_QUESTION3: "Это или это"
+
+SOLVE_QUESTION3_YES: "Ответ"
+
+SOLVE_QUESTION3_NO: "Ответ"
+
+FREQUENT_PROBLEMS: "Выберите проблему:"
+
+SOLVE_PROBLEM1: "Типо решение"
+
+SOLVE_PROBLEM2: "Тоже решение"
+
+SOLVE_PROBLEM3: "У вас так?"
+
+SOLVE_PROBLEM3_YES: "Сделайте что-то"
+
+SOLVE_PROBLEM3_NO: "Сделайте это"

@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: botAssistant
+
+telegram:
+  bot:
+    token: #token
+    botName: #botName
+    zniGroupId: #zniGroupId
